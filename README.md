@@ -1,6 +1,6 @@
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
-## 🎯 Objetivo Deste Desafio de Projeto (Lab)
+## 🎯 Objetivo Deste Desafio de Projeto (LAB)
 
 O desafio consiste em criar um modelo de Machine Learning No-Code para prever o estoque de uma empresa.
 
